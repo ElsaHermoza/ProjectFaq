@@ -1,1 +1,3 @@
-@import url('body.css');
+@import "./body.css";
+@import "./menu.css";
+

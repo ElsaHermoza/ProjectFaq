@@ -1,0 +1,16 @@
+aside{
+    margin-left: 250px;
+    float:left; 
+}
+
+.menu{
+    width: 200px;
+    height: 40px;
+    font-family: sans-serif;
+
+}
+
+a{
+    text-decoration: none;
+    
+}
