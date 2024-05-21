@@ -1,6 +1,7 @@
 aside{
     margin-left: 250px;
     float:left; 
+    position: fixed;
 }
 
 .menu{
